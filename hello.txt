@@ -1,1 +1,2 @@
 Hello again
+Second line in my_second_branch
